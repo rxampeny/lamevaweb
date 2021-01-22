@@ -33,6 +33,21 @@
   </url>
   
   <url>
+    <loc>/post/el-meu-primer/</loc>
+    <lastmod>2021-01-22T12:10:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/hola/</loc>
+    <lastmod>2021-01-22T12:09:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2021-01-22T12:10:36+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
@@ -45,11 +60,6 @@
   <url>
     <loc>/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
